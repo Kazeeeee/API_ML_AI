@@ -26,4 +26,4 @@ Document owner|钟嘉孜
 ## Requirements:
 Title|User story|Importance|Notes
 :--:|:--:|:--:|:--:
-Target release|2018/11/25
+图像分类|用户通过这项产品看照片时忘记人名，选择提示会显示出人名|⭐⭐⭐|用户信息
