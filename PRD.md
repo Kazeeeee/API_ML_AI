@@ -10,6 +10,7 @@ Document owner|钟嘉孜
 
 ## API：
 调用百度API-对话情绪识别
+<p><a href="http://ai.baidu.com/docs#/NLP-API/top">对应API技术文档</a></p>
 
 ## user：
 各大商家客服（如：T宝、拼DD、mei团、e了么等）
