@@ -34,8 +34,9 @@ Title|User story|Importance|Notes
 情感分析|智能客服对话中，客户：“**你们这是什么垃圾产品啊?这么垃圾的东西都敢拿出来卖？**”|⭐⭐⭐|智能客服通过情感分析对该客户进行安抚
 情感分析|网上评论写：“**廖老师是一个伟大的教师**”|⭐⭐|识别分析出情感分类、分类置信度、积极性、消极性
 
-### 示例
-![智能客服示例](http://aip.bdstatic.com/portal/dist/1542890330398/ai_images/technology/nlp-emotion_detection/introduce.png)
+### 示例：智能客服对话
+
+<p><img src="http://aip.bdstatic.com/portal/dist/1542890330398/ai_images/technology/nlp-emotion_detection/introduce.png" alt="智能客服示例" title="" /></p>
 
 ## User interaction and design：
 容易使用、上传图片、查找图片、身份配对
