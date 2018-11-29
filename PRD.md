@@ -34,9 +34,9 @@ Title|User story|Importance|Notes
 舆情监控|
 
 
-### 示例：智能客服对话
+### 示例：情感倾向分析
 
-<p><img src="http://aip.bdstatic.com/portal/dist/1542890330398/ai_images/technology/nlp-emotion_detection/introduce.png" alt="智能客服示例" title="" /></p>
+<p><img src="http://aip.bdstatic.com/portal/dist/1543490900641/ai_images/technology/nlp-sentiment_classify/introduce.jpg" alt="情感倾向分析" title="" /></p>
 
 ## User interaction and design
 **原型、产品结构**
