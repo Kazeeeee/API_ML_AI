@@ -25,17 +25,16 @@ Document owner|钟嘉孜
 1. 该产品可在移动端、PC端使用。
 2. 需要登陆
 
+### 示例：情感倾向分析
+
+<p><img src="http://aip.bdstatic.com/portal/dist/1543490900641/ai_images/technology/nlp-sentiment_classify/introduce.jpg" alt="情感倾向分析" title="" /></p>
+
 ## Requirements:
 Title|User story|Importance|Notes
 :--:|:--:|:--:|:--:
 评论分析与决策|评论“胡老师讲课很生动有趣”，学生看到胡老师很多好评，于是很想上她的课，优先选课|⭐⭐⭐|评论分析方便决策
 评论分类|“吴老师是个负责任的老师”与“吴老师讲课听不懂”自动分类成积极评论与消极评论|⭐⭐|对评论情感性分析，进行分类
 舆情监控|app上同学们讨论“西区弥漫着一股屎味”，疯狂分析原因|⭐⭐⭐⭐|把握用户对热点信息的情感倾向性变化
-
-
-### 示例：情感倾向分析
-
-<p><img src="http://aip.bdstatic.com/portal/dist/1543490900641/ai_images/technology/nlp-sentiment_classify/introduce.jpg" alt="情感倾向分析" title="" /></p>
 
 ## User interaction and design
 **原型、产品结构**
