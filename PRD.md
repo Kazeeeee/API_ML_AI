@@ -37,7 +37,8 @@ Title|User story|Importance|Notes
 舆情监控|app上同学们讨论“西区弥漫着一股屎味”，疯狂分析原因|⭐⭐⭐⭐|把握用户对热点信息的情感倾向性变化
 
 ## User interaction and design
-**原型、产品结构**
+**产品结构**
+<p><img src="https://image.ipaiban.com/upload-ueditor-image-20181130-1543551433796047282.png" alt="产品结构" title="" /></p>
 
 ## Questions：
 登录需绑定账号，以防止恶意煽动行为、语言不文明行为。 
