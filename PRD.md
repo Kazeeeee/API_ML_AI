@@ -29,6 +29,10 @@ Document owner|钟嘉孜
 1. 该产品可在移动端、PC端使用。
 2. 需要登陆
 
+## Input & Output
+* input：文本（评论）
+* output：该文本的情感极性类别并给出相应的置信度
+
 ### 示例：情感倾向分析
 
 <p><img src="http://aip.bdstatic.com/portal/dist/1543490900641/ai_images/technology/nlp-sentiment_classify/introduce.jpg" alt="情感倾向分析" title="" /></p>
@@ -43,6 +47,8 @@ Title|User story|Importance|Notes
 ## User interaction and design
 **产品结构**
 <p><img src="https://image.ipaiban.com/upload-ueditor-image-20181130-1543551433796047282.png" alt="产品结构" title="" /></p>
+**产品原型**
+<p><img src="image.ipaiban.com/upload-ueditor-image-20181201-1543634781704043042.png" alt="产品原型" title="" /></p>
 
 ## Questions：
 登录需绑定账号，以防止恶意煽动行为、语言不文明行为。 
