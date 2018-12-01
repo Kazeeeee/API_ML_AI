@@ -49,7 +49,7 @@ Title|User story|Importance|Notes
 <p><img src="https://image.ipaiban.com/upload-ueditor-image-20181130-1543551433796047282.png" alt="产品结构" title="" /></p>
 
 **产品原型**
-<p><img src="image.ipaiban.com/upload-ueditor-image-20181201-1543634781704043042.png" alt="产品原型" title="" /></p>
+<p><img src="http://image.ipaiban.com/upload-ueditor-image-20181201-1543634781704043042.png" alt="产品原型" title="" /></p>
 
 ## Questions：
 登录需绑定账号，以防止恶意煽动行为、语言不文明行为。 
