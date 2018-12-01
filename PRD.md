@@ -47,6 +47,7 @@ Title|User story|Importance|Notes
 ## User interaction and design
 **产品结构**
 <p><img src="https://image.ipaiban.com/upload-ueditor-image-20181130-1543551433796047282.png" alt="产品结构" title="" /></p>
+
 **产品原型**
 <p><img src="image.ipaiban.com/upload-ueditor-image-20181201-1543634781704043042.png" alt="产品原型" title="" /></p>
 
