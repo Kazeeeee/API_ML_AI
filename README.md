@@ -72,14 +72,15 @@ Title|User story|Importance|Notes
 ## Not doing：
 校友APP
 
-## Body请求示例:
+## API示例:
 ```python
 {   
     "text": "苹果是一家伟大的公司"    
 }    
 ```
+### 返回示例
 ```python
-## 返回示例
+
  {     "text":"苹果是一家伟大的公司",   
      "items":[   
          {   
