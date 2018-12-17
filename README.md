@@ -43,11 +43,11 @@ Document owner|钟嘉孜
 * input：文本（评论）   
 * output：抽取评论关键词   
 
-### 示例：情感倾向分析
+### 示例：情感倾向分析（作用于热点和评论）
 
 <p><img src="http://aip.bdstatic.com/portal/dist/1543490900641/ai_images/technology/nlp-sentiment_classify/introduce.jpg" alt="情感倾向分析" title="" /></p>
 
-### 示例：评论观点抽取
+### 示例：评论观点抽取（作用于评论）
 
 <p><img src="https://image.ipaiban.com/upload-ueditor-image-20181217-1545007271136046335.png" alt="评论观点抽取" title="" /></p>
 
