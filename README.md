@@ -73,11 +73,12 @@ Title|User story|Importance|Notes
 校友APP
 
 ## Body请求示例:
-
+```python
 {   
     "text": "苹果是一家伟大的公司"    
 }    
-   
+```
+```python
 ## 返回示例
  {     "text":"苹果是一家伟大的公司",   
      "items":[   
@@ -89,7 +90,7 @@ Title|User story|Importance|Notes
         }   
     ]   
 }   
- 
+ ```
 ## 使用比较分析
 * （评论观点抽取）百度API与神箭云对比，神箭云API能分析评论情感搭配极性（0消极1中性2积极），还能分析评论情感搭配出现结束位置，能更精确的分析评论观点
 <p><a href="https://www.shenjianshou.cn/index.php?r=market/product&product_id=500532&app_id=1803747#stack-info-1">神箭云-评论观点抽取</a></p>
