@@ -47,7 +47,6 @@ Document owner|钟嘉孜
 ### 示例：情感倾向分析（作用于热点和评论）
 
 <p><img src="http://aip.bdstatic.com/portal/dist/1543490900641/ai_images/technology/nlp-sentiment_classify/introduce.jpg" alt="情感倾向分析" title="" /></p> 
- ![image](https://github.com/Kazeeeee/API_ML_AI/images/jiegou.png)
 
 ### 示例：评论观点抽取（作用于评论）
 
