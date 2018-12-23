@@ -11,13 +11,14 @@ Document owner|钟嘉孜
 ## API：
 <p><a href="http://ai.baidu.com/tech/nlp/sentiment_classify">百度API-情感倾向分析接口技术文档</a></p>   
 <p><a href="https://www.shenjianshou.cn/index.php?r=market/product&product_id=500532&app_id=1803747#stack-info-1">神箭云-评论观点抽取</a></p>
+<p><a href="http://dun.163.com/trial/text">网易云-易盾文本检测API</a></p>   
 
 ## user：
-中山大学南方学院学生群体
+中山大学南方学院师生群体
 
 ## Goals：
 * 可以通过匿名的形式对老师、领导进行评价，对热点事情进行匿名评论，提出建议
-* PC端登陆可以上传、下载文件（百度云类型）
+* 情绪天气表可以反映该用户与全部用户一周内的情绪天气，进行建议提醒。
 * 校师生可以对热点事件进行评论（百度贴吧类型） 
 
 ## 痛点：
@@ -33,7 +34,7 @@ Document owner|钟嘉孜
 2. 需要登陆
 
 ## 产品需求分析
-暂时没有其他平台、软件专属于校内交流（例：广大华软有内网可以供上传、下载文件，但没有交流，也没有软件）
+中大南方暂时没有其他平台、软件专属于校内交流（例：广大华软有内网可以供上传、下载文件，但没有交流，也没有软件）
 
 ## Input & Output
 #### 情感分析
@@ -45,16 +46,20 @@ Document owner|钟嘉孜
 
 ### 示例：情感倾向分析（作用于热点和评论）
 
-<p><img src="http://aip.bdstatic.com/portal/dist/1543490900641/ai_images/technology/nlp-sentiment_classify/introduce.jpg" alt="情感倾向分析" title="" /></p>
+<p><img src="http://aip.bdstatic.com/portal/dist/1543490900641/ai_images/technology/nlp-sentiment_classify/introduce.jpg" alt="情感倾向分析" title="" /></p> 
 
 ### 示例：评论观点抽取（作用于评论）
 
 <p><img src="https://image.ipaiban.com/upload-ueditor-image-20181217-1545007271136046335.png" alt="评论观点抽取" title="" /></p>
 
+### 文本检查反垃圾（作用于评论、话题）
+<p><img src="https://image.ipaiban.com/upload-ueditor-image-20181223-1545541293499092658.png" alt="文本检测反垃圾" title="" /></p>
+
 ## Requirements:
 Title|User story|Importance|Notes
 :--:|:--:|:--:|:--:
 评论分析与决策|评论“胡老师讲课很生动有趣”，学生看到胡老师很多好评，于是很想上她的课，优先选课|⭐⭐⭐|评论分析方便决策
+情绪分析|
 评论分类|“王老师是个负责任的老师”与“王老师讲课听不懂”自动分类成积极评论与消极评论|⭐⭐|对评论情感性分析，进行分类
 舆情监控|app上同学们讨论“西区弥漫着一股恶臭”，疯狂分析原因|⭐⭐⭐⭐|把握用户对热点信息的情感倾向性变化
 评论观点抽取|学生们对某位老师评价一段话，说的很委婉让人看不太懂|⭐⭐|观点抽取，容易看懂
@@ -70,7 +75,10 @@ Title|User story|Importance|Notes
 登录需绑定账号，以防止恶意煽动行为、语言不文明行为。 
 
 ## Not doing：
-校友APP
+校友APP、普及到其他学校、
+
+## 恶意内容监控
+通过
 
 ## API示例:
 ```python
