@@ -71,6 +71,8 @@ Title|User story|Importance|Notes
 **产品原型**
 <p><img src="http://image.ipaiban.com/upload-ueditor-image-20181201-1543634781704043042.png" alt="产品原型" title="" /></p>
 
+![Aaron Swartz](https://github.com/Kazeeeee/API_ML_AI/blob/master/images/jiemian.png)
+
 ## Questions：
 登录需绑定账号，以防止恶意煽动行为、语言不文明行为。 
 
