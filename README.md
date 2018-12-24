@@ -65,10 +65,11 @@ Title|User story|Importance|Notes
 评论观点抽取|学生们对某位老师评价一段话，说的很委婉让人看不太懂|⭐⭐|观点抽取，容易看懂
 
 ## User interaction and design
-**产品结构**
+
+**产品结构**   
 ![Aaron Swartz](https://github.com/Kazeeeee/API_ML_AI/blob/master/images/jiegou.png)
 
-**产品原型**
+**产品原型**   
 ![Aaron Swartz](https://github.com/Kazeeeee/API_ML_AI/blob/master/images/jiemian.png)
 
 ## Questions：
