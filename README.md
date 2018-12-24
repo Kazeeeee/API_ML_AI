@@ -66,11 +66,9 @@ Title|User story|Importance|Notes
 
 ## User interaction and design
 **产品结构**
-<p><img src="https://image.ipaiban.com/upload-ueditor-image-20181130-1543551433796047282.png" alt="产品结构" title="" /></p>
+![Aaron Swartz](https://github.com/Kazeeeee/API_ML_AI/blob/master/images/jiegou.png)
 
 **产品原型**
-<p><img src="http://image.ipaiban.com/upload-ueditor-image-20181201-1543634781704043042.png" alt="产品原型" title="" /></p>
-
 ![Aaron Swartz](https://github.com/Kazeeeee/API_ML_AI/blob/master/images/jiemian.png)
 
 ## Questions：
