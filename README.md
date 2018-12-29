@@ -3,9 +3,9 @@
 
 item|content
 --|:--:
-Target release|2018/11/25
+Target release|2018/12/25
 Epic| 匿语APP
-Document status|进行中
+Document status|完成
 Document owner|钟嘉孜
 
 ## API：
