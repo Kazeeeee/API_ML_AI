@@ -107,4 +107,4 @@ Title|User story|Importance|Notes
 <p><a href="http://ai.baidu.com/docs#/NLP-API/57b9b630">百度API-评论观点抽取</a></p>
 
 ## 产品原型下载地址
-<p><a href="http://dun.163.com/trial/text">产品原型</a></p>   
+<p><a href="https://github.com/Kazeeeee/API_ML_AI/blob/master/%E4%B8%AD%E5%A4%A7%E5%8D%97%E6%96%B9APP.rp">产品原型</a></p>   
