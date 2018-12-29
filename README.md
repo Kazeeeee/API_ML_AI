@@ -79,7 +79,7 @@ Title|User story|Importance|Notes
 校友APP、普及到其他学校、
 
 ## 恶意内容监控
-通过
+通过对消极内容进行排序（对恶意内容，消极程度越高，就把把他们放在更显眼的地方进行监控）
 
 ## API示例:
 ```python
