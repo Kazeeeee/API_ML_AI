@@ -106,3 +106,5 @@ Title|User story|Importance|Notes
 <p><a href="https://www.shenjianshou.cn/index.php?r=market/product&product_id=500532&app_id=1803747#stack-info-1">神箭云-评论观点抽取</a></p>
 <p><a href="http://ai.baidu.com/docs#/NLP-API/57b9b630">百度API-评论观点抽取</a></p>
 
+## 产品原型下载地址
+<p><a href="http://dun.163.com/trial/text">产品原型</a></p>   
